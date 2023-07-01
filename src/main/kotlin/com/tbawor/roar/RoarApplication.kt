@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class RoarApplication
 
 fun main(args: Array<String>) {
-	runApplication<RoarApplication>(*args)
+    runApplication<RoarApplication>(*args)
 }
